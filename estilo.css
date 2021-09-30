@@ -53,3 +53,13 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+.fundo {
+	background-color: rgba(0, 0, 0, 0.3);
+	position: relative;
+	border-radius: 15px;
+	margin: 50px 60px;
+	padding: 30px;
+
+
+}
